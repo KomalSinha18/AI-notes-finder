@@ -1,0 +1,21 @@
+Machine Learning Basics
+
+Machine learning is a subset of artificial intelligence that enables computers to learn and make decisions from data without being explicitly programmed for every task.
+
+Key Concepts:
+- Supervised Learning: Learning from labeled data (e.g., classification, regression)
+- Unsupervised Learning: Finding patterns in unlabeled data (e.g., clustering)
+- Reinforcement Learning: Learning through trial and error with rewards/penalties
+
+Common Algorithms:
+- Linear Regression: Predicts continuous values
+- Decision Trees: Tree-like model for decisions
+- Neural Networks: Inspired by the human brain
+- Support Vector Machines: For classification tasks
+
+Applications:
+- Image recognition
+- Natural language processing
+- Recommendation systems
+- Fraud detection
+
